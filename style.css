@@ -32,8 +32,35 @@ html{
 }
 
 .container4 {
+    display: block;
     background-color: #FFD77C;
+    text-align: center;
+    padding: 15px 20px 70px 20px;
+
 }
+
+    .container4 p
+        {
+            width: 50%;
+            margin: auto;
+            margin-bottom: 10px;
+        }
+    .container4 input
+        {
+            padding: 15px;  
+            margin-bottom: 10px; 
+            border: none;
+            border-radius: 30px;
+        }
+    .container4 input[type=email]
+        {
+           width: 40%; 
+        }
+   .container4 input[type=button]
+        {
+           width: 180px;
+        }
+
 .container5{
     background-color: #C9ECB5;
     display: flex;
