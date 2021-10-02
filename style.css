@@ -28,8 +28,53 @@ html{
 }
 
 .container3 {
-    background-color: #C9ECB5;
+    background-color: #C9ECB5; 
+    padding: 10px 10px;
 }
+    .container3 h2
+        {
+           text-align: center; 
+        }
+
+    .container3 h2 span
+        {
+           color: #6CB840;
+        }
+    #hotdeals
+        {
+           display: flex; 
+           justify-content: space-between;
+        }
+    #juice
+        {
+            position: relative;
+            top: -150px;
+            
+        }
+    #meat
+        {
+            position: absolute;
+            left: 50px;
+            margin-top: 98px;
+        }
+    #hotdealsleft 
+        {
+            padding: 10px 20px;
+        }
+    #hotdealsright{
+        width: 50%;
+        padding: 10px 20px;
+        
+    }
+    #hotdealsright h2
+        {
+            text-align: left;
+        }
+    #hotdealsright h1
+        {
+            color:#6CB840;
+            margin-top: 10px;
+        }
 
 .container4 {
     display: block;
