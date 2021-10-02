@@ -31,20 +31,22 @@ html{
         {
             display: flex;
             flex-wrap: wrap;
+            justify-content:space-evenly;
+        
         }
     .expmenu 
         {
             background-color: white;
-            margin: 10px;
+            margin-bottom: 20px;
             border-radius: 0 0 40px 0;
             flex-wrap: wrap;
             padding: 20px;
-            flex-flow: row wrap;
-            width: 18%;
+            width: 33%;
+        
         }
     .expmenu img 
         {
-    
+            width: 50%;
             float: left;
         }
 
