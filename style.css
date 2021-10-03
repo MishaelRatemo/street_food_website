@@ -14,7 +14,7 @@ html{
     font-family:Poppins ;
 }
 .container0{
-    background-color:transparent ;
+    background-color: ;
        
 
 }
@@ -25,7 +25,8 @@ html{
 
 }
     .restaurantA img {
-        float: left;       
+        float: left; 
+        width: 100%;      
     }
     .restaurantB {
         text-align: center;
