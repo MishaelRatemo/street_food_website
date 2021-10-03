@@ -61,7 +61,7 @@ html{
         padding: 12px 30px;
         border-radius: 30px;
     }
-     /* ***********the end */
+     /* ***********the end********* */
     
 
 /* Eat together styling */
@@ -83,7 +83,7 @@ html{
     .restaurantB h1{
         color: #EAAB1B;
 
-    } /* The end*/
+    } /* ##### The end ######*/
 
 /* Starting of explore menu */
 .container2{
@@ -106,24 +106,25 @@ html{
         position: relative;
         width: 50%;
         float: left;
-        left: -20%;
+        left: -25%;
+        top: 30px;
         clear: left;
     }
     table tr td {
         background-color: white;
-        padding: 10px;
+        padding: 7px;
         border-radius: 0 0 20% 0;
     }
     .exploreMenu article
         {
             display: flex;
-            flex-wrap: wrap;
-            
+            flex-wrap: wrap;            
             background-color: white;
         } 
-        /* End here */
+        /* ###### End here ######*/
 
-        
+
+/* Hot deal styling starts here */
 .container3 {
     background-color: #C9ECB5; 
     padding: 10px 10px;
@@ -172,7 +173,9 @@ html{
             color:#6CB840;
             margin-top: 10px;
         }
+        /*#####  The end ##### */
 
+/* Styling fot contact us goes from here */
 .container4 {
     display: block;
     background-color: #FFD77C;
@@ -202,7 +205,10 @@ html{
         {
            width: 180px;
         }
+        /* ###### The end ###### */
 
+
+/* Footer styling starts here */
 .container5{
     background-color: #C9ECB5;
     display: flex;
@@ -210,7 +216,7 @@ html{
     
 }
     #divider{
-        border-left: 3px dashed limegreen;
+        border-left: 3px dashed rgb(27, 121, 27);
         height: 80px;
         padding: 20px;
         position: relative;
@@ -225,7 +231,7 @@ html{
     }
     
     .footersections{
-        width: 20%;
+        width: 20%; /* Giving same widths to all elements in the footer */
         
     }
 
@@ -248,7 +254,9 @@ html{
     .r-float{
         float: right;
     }
+    /*####### End of footer#### */
 
+/*  Styling buttons */
 .buttons
 {
         background-color: #6CB840;
