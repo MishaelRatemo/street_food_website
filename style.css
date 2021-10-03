@@ -18,7 +18,7 @@ html{
         top:0;
         left:0 ;
         position: absolute;
-clip-path: circle(650px at 1200px 0px );    
+        clip-path: circle(650px at 1200px 0px );    
         position: absolute;
         z-index: -1;
        
@@ -33,6 +33,16 @@ clip-path: circle(650px at 1200px 0px );
         font-weight: bolder;
         
     }
+    section{
+        width: 40%;
+    }
+    section  h1{
+        color: #6CB840;
+    }
+    section span{
+        color: #EAAB1B;
+    }
+    
 
 .container1{
     display: flex;
