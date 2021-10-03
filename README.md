@@ -66,6 +66,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Linked - [Mishael Ratemo](www.linkedin.com/in/mishael-mosoti-37b786161/)
+LinkedIn - [Mishael Ratemo](www.linkedin.com/in/mishael-mosoti-37b786161/)
 
 [Go Back to the top](#STREET FOOD WEBSITE)
