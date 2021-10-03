@@ -19,8 +19,24 @@ html{
 
 }
 .container1{
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    padding: 20px;
 
 }
+    .restaurantA img {
+        width: 50%;        
+    }
+    .restaurantB {
+        text-align: center;
+        
+    }
+
+    .restaurantB h1{
+        color: #EAAB1B;
+
+    }
 
 .container2{
     background-color:#f2ffea ;
