@@ -1,8 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 html{
-    font-family:'Poppins' ;
+    font-family:'Poppins' ; /* can not function if not imported"*/
 }
+/* Style for the header section starts here */
 .container0{
     
     height:100vh;
@@ -18,10 +19,10 @@ html{
         top:0;
         left:0 ;
         position: absolute;
-        clip-path: circle(700px at 1200px 0px );    
-        z-index: -1;
-       
+        clip-path: circle(700px at 1200px 0px );   /*the property hide part of the section of a shape: 700px id the radius,1200px X-axis and 0 Y-axis 
+        z-index: -1; /* this send it behind other elements*/   
     }
+
     nav ul{
         display: flex;
         justify-content: space-around;
@@ -33,13 +34,10 @@ html{
         font-weight: bolder;
         
     }
-    nav ul li h3{
-        
-    }
-
+    
      #logo{
-         text-align: center;
-         font-weight: 900;
+         position: relative;
+         top: -30px;
 
      }
     section{
@@ -47,9 +45,7 @@ html{
         position: relative;
         top: 20%;
         margin-left: 8%;
-        overflow: hidden;
-
-
+       
     }
     section  h1{
         color: #6CB840;
@@ -65,8 +61,10 @@ html{
         padding: 12px 30px;
         border-radius: 30px;
     }
+     /* ***********the end */
     
 
+/* Eat together styling */
 .container1{
     display: flex;
     justify-content: space-around;
@@ -85,8 +83,9 @@ html{
     .restaurantB h1{
         color: #EAAB1B;
 
-    }
+    } /* The end*/
 
+/* Starting of explore menu */
 .container2{
     background-color:#f2ffea ;
     padding: 10px;
@@ -121,8 +120,10 @@ html{
             flex-wrap: wrap;
             
             background-color: white;
-        }
+        } 
+        /* End here */
 
+        
 .container3 {
     background-color: #C9ECB5; 
     padding: 10px 10px;
