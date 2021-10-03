@@ -66,8 +66,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-
 Linked - [Mishael Ratemo](www.linkedin.com/in/mishael-mosoti-37b786161/)
 
 [Go Back to the top](#STREET FOOD WEBSITE)
