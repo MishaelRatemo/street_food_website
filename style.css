@@ -61,6 +61,35 @@ html{
         padding: 12px 30px;
         border-radius: 30px;
     }
+    .foodscontainer{
+        position: relative;
+        float: right;
+        clear: right;
+        left: -13%;
+    }
+        #img2{
+            transform: translateY(-25vh);
+        }
+        #img3{            
+            
+            transform: translateY(-40vh);    
+             
+
+        }
+        #img4{
+            
+
+            
+        }
+        #img5{
+            transform: translateY(-25vh);            
+
+        }
+        #img6{}
+        
+
+
+
      /* ***********the end********* */
     
 
