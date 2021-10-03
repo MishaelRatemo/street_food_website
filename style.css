@@ -19,13 +19,12 @@ html{
         left:0 ;
         position: absolute;
         clip-path: circle(700px at 1200px 0px );    
-        position: absolute;
         z-index: -1;
        
     }
     nav ul{
         display: flex;
-        justify-content: space-evenly;
+        justify-content: space-around;
         padding-top: 40px;
     
     }
@@ -34,6 +33,15 @@ html{
         font-weight: bolder;
         
     }
+    nav ul li h3{
+        
+    }
+
+     #logo{
+         text-align: center;
+         font-weight: 900;
+
+     }
     section{
         width: 30%;
         position: relative;
