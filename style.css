@@ -14,10 +14,17 @@ html{
     font-family:Poppins ;
 }
 .container0{
-    background-color: ;
-       
-
+    background-color:rgb(216, 212, 212);
+    
 }
+    nav ul{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    nav ul li {
+        list-style: none;
+    }
+
 .container1{
     display: flex;
     justify-content: space-around;
