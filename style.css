@@ -19,7 +19,7 @@ html{
         top:0;
         left:0 ;
         position: absolute;
-        clip-path: circle(700px at 1200px 0px );   /*the property hide part of the section of a shape: 700px id the radius,1200px X-axis and 0 Y-axis 
+        clip-path: circle(700px at 1200px 0px );   /*the property hide part of the section of a shape: 700px id the radius,1200px X-axis and 0 Y-axis */
         z-index: -1; /* this send it behind other elements*/   
     }
 
