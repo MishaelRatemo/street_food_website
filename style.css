@@ -54,7 +54,8 @@ html{
         color: #EAAB1B;
     }
     section input[type=button]{
-        
+        padding: 12px 30px;
+        border-radius: 30px;
     }
     
 
