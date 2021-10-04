@@ -40,7 +40,7 @@
 
 ## Licence
 
-MIT License
+[MIT License](LICENCE)
 
 Copyright (c) [2021] [Mishael Ratemo]
 
@@ -68,4 +68,4 @@ SOFTWARE.
 
 LinkedIn - [Mishael Ratemo](www.linkedin.com/in/mishael-mosoti-37b786161/)
 
-[Go Back to the top](#STREET FOOD WEBSITE)
+[Go Back to the top](# STREET FOOD WEBSITE)
