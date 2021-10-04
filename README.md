@@ -3,9 +3,14 @@
 
 ### By Mishael Ratemo
 
+## Project Design
+Click here [Project design](https://drive.google.com/file/d/1KrnXiEAZ0pnaQKvVd-o_8bkamkGd7AdV/view) to  see the design
+
+
+
 
 ## Table of Content
-
++ [Project Design]()
 + [Description](#description)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
@@ -24,7 +29,8 @@
 
 * An access to the Internet and a browser
 
-### Installation Process
+### Live Demo 
+Click [Here](https://mishaelratemo.github.io/street_food_website/) for a live demo of the project.
 
 
 ## Technology Used
