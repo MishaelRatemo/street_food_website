@@ -12,6 +12,8 @@ Click here [Project design](https://drive.google.com/file/d/1KrnXiEAZ0pnaQKvVd-o
 ## Table of Content
 + [Project Design]()
 + [Description](#description)
++ [Requirements](#requirements)
++ [Live Demo](#live-demo)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
